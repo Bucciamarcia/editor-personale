@@ -1,0 +1,7 @@
+[openai]
+api_key = sk-xxx
+model = gpt-3.5-turbo
+
+[google_custom_search]
+apikey = yyy
+cx = zzz
