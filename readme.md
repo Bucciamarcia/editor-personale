@@ -12,7 +12,8 @@ Editor Personale è uno script che usa GPT-3.5-turbo (ChatGPT) o GPT-4 per migli
 
 - Python 3.10
 - Una chiave API di OpenAI (bisogna registrare un account [qui](https://platform.openai.com/signup).)
-- Un motore di ricerca Google personalizzato da [questo indirizzo](https://programmablesearchengine.google.com/controlpanel/create).
+- Un motore di ricerca Google personalizzato da [questo indirizzo, copiare l'ID, o CX](https://programmablesearchengine.google.com/controlpanel/create).
+- Custom Search API da Google Cloud: [link](https://console.cloud.google.com/apis/credentials/key/)
 
 ### Installare e usare Editor Personale (per esperti)
 
@@ -31,7 +32,9 @@ Editor Personale è uno script che usa GPT-3.5-turbo (ChatGPT) o GPT-4 per migli
 
 Per semplificare la vita a chi non conosce il mondo della programmazione, questo video spiega come installare e usare lo script (compreso Python):
 
-(In arrivo a breve)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mZuONTa47kg
+" target="_blank"><img src="http://img.youtube.com/vi/mZuONTa47kg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Editor Personale in dettaglio
 
